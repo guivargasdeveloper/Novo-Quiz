@@ -156,4 +156,5 @@ public class Quiz {
         return questao.isCorreta(respostaUsuario) ? 1 : 0;
     }
 
+
 }
